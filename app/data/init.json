@@ -1,1 +1,1 @@
-{"platform":{"android":{"minBuild":1}},"urls":{"baseUrl":"","cdnDynamic":""}}
+{"platform":{"android":{"minBuild":1}},"develop":{"urls":{"baseUrl":"https://raw.githubusercontent.com/faithsoul-ngo/fs-cdn-static/develop/app/data/"}}}
